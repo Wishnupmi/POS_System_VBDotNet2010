@@ -1,0 +1,26 @@
+E:\TokoSepatu\TokoSepatu\TokoSepatu\bin\Debug\TokoSepatu.exe.config
+E:\TokoSepatu\TokoSepatu\TokoSepatu\obj\x86\Debug\TokoSepatu.exe
+E:\TokoSepatu\TokoSepatu\TokoSepatu\obj\x86\Debug\TokoSepatu.xml
+E:\TokoSepatu\TokoSepatu\TokoSepatu\obj\x86\Debug\TokoSepatu.pdb
+E:\TokoSepatu\TokoSepatu\TokoSepatu\bin\Debug\POS_System.exe.config
+E:\TokoSepatu\TokoSepatu\POS_System\bin\Debug\POS_System.exe.config
+E:\TokoSepatu\TokoSepatu\POS_System\bin\Debug\POS_System.exe
+E:\TokoSepatu\TokoSepatu\POS_System\bin\Debug\POS_System.pdb
+E:\TokoSepatu\TokoSepatu\POS_System\bin\Debug\POS_System.xml
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.vbprojResolveAssemblyReference.cache
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.Form1.resources
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.Form2.resources
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.Form4.resources
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.Form5.resources
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.frmLoading.resources
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.frmLogin.resources
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.MDIParent1.resources
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.Resources.resources
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.vbproj.GenerateResource.Cache
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.exe
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.xml
+E:\TokoSepatu\TokoSepatu\POS_System\obj\x86\Debug\POS_System.pdb
+E:\POS System\POS_System\bin\Debug\POS_System.exe.config
+E:\POS System\POS_System\obj\x86\Debug\POS_System.exe
+E:\POS System\POS_System\obj\x86\Debug\POS_System.xml
+E:\POS System\POS_System\obj\x86\Debug\POS_System.pdb
